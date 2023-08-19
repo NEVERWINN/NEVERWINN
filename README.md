@@ -11,14 +11,18 @@
 ---
 **My projects:**
 
-• https://github.com/mxxet/mxxet/tree/main
+• [PyTelegramBotAPI_shop](https://github.com/mxxet/mxxet/commit/9a150a0553efdc9fefefc296cf98fdf338f704f4)
+
+• [Basic calculator](https://github.com/mxxet/mxxet/commit/f988831a80b95736907dab678767cc53586e1df1)
 
 
 
 ---
 **Social Medias:**
 
-•Discord - mxxet
+• Discord - mxxet
+
+• [FL](https://www.fl.ru/users/mayveytrucker/portfolio/)
 
 
 
