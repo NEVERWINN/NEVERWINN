@@ -11,7 +11,7 @@
 ---
 **My projects:**
 
-• [Projects](#https://github.com/mxxet/mxxet/tree/main)
+• https://github.com/mxxet/mxxet/tree/main
 
 
 
@@ -20,7 +20,6 @@
 
 •Discord - mxxet
 
-•[FL](#https://www.fl.ru/users/mayveytrucker/portfolio/)
 
 
 
