@@ -11,7 +11,7 @@
 ---
 **My projects:**
 
-• [PyTelegramBotAPI_shop](https://github.com/mxxet/mxxet/blob/main/pyTelegram_shop.py)
+• [PyTelegramBotAPI_shop](https://github.com/mxxet/pyTelegramBotAPI_shop/blob/main/pyTelegramBotAPI_shop.py)
 
 • [Basic calculator](https://github.com/mxxet/mxxet/commit/f988831a80b95736907dab678767cc53586e1df1)
 
