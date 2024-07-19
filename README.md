@@ -34,9 +34,9 @@ Python, C#, SQL
 **Statistics:**
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mxxet&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NEVERWINN&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxxet&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NEVERWINN&theme=dark)
 
 
 
