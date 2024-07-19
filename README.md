@@ -5,22 +5,25 @@
 
 ⚙️**Languages and Tools:**
 
-![course_15007_image (3)](https://github.com/mxxet/mxxet/assets/108745396/187ccc12-5488-45ed-a953-2c54eb48ab56)
-![65a078c4edadcf25652c970897074a18 (2)](https://github.com/mxxet/mxxet/assets/108745396/bf127237-d8e7-46ac-adb1-14d9fd80a517)
-C#
+Python, C#, SQL
 ---
 **My projects:**
 
-• [PyTelegramBotAPI_shop](https://github.com/mxxet/pyTelegramBotAPI_shop/blob/main/pyTelegramBotAPI_shop.py)
+• [PYTELEGRAMAPI_SHOP](https://github.com/mxxet/pyTelegramBotAPI_shop/blob/main/pyTelegramBotAPI_shop.py)
 
-• [Basic calculator](https://github.com/mxxet/Basic-Calculator_app/blob/main/Calculator.py)
+• [BASIC CALCULATOR](https://github.com/mxxet/Basic-Calculator_app/blob/main/Calculator.py)
 
+• [STEAM STEALER](https://github.com/NEVERWINN/STEALER)
+
+• [KEYLOGGER](https://github.com/NEVERWINN/KEYLOGGER)
+
+• [SQL_EXAMPLE](https://github.com/NEVERWINN/SQL_EXAMPLE)
 
 
 ---
 **Social Medias:**
 
-• Discord - mxxet
+• Discord - neverwinn
 
 • [VK](https://vk.com/matthew_shx)
 
