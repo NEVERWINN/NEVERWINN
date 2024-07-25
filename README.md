@@ -25,8 +25,6 @@ Python, C#, SQL
 
 • Discord - neverwinn
 
-• VK - https://vk.com/matthew_shx
-
 • Website - https://neverwinn.ru/
 
 
